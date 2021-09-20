@@ -25,7 +25,7 @@ public class Assignment3B {
                     System.out.println("In a normal year, that month has 28 days in it!");
                 }
             case 3:
-                System.out.println("That is the month of March");
+                System.out.println("That is the month of March.");
                 System.out.println("That month has 31 days in it!");
             case 4:
                 System.out.println("That is the month of April.");
